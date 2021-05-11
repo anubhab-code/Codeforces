@@ -1,3 +1,5 @@
+#4A - Watermelon
+
 n=int(input())
 if n<=2:
     print('NO')

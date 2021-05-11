@@ -1,3 +1,5 @@
+#71A - Way Too Long Words
+
 for _ in range(int(input())):
     word = input()
     if len(word) > 10:

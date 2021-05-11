@@ -1,3 +1,5 @@
+#112A - Petya and Strings
+
 a = input().lower()
 b = input().lower()
 f = 0

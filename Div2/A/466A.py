@@ -1,3 +1,5 @@
+#466A - Cheap Travel
+
 import math
 n,m,a,b = map(int,input().split())
 cost1 = (n//m)*b + (n%m)*a

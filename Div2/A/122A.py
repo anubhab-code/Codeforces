@@ -1,3 +1,5 @@
+#122A - Lucky Division
+
 def is_lucky(n):
 
     digits = [int(x) for x in str(n)]
@@ -18,5 +20,3 @@ if is_lucky(n) or almost_lucky(n):
     print("YES")
 else:
     print("NO")
-    
-# 122A.py

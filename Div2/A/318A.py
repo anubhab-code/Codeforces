@@ -1,3 +1,5 @@
+#318A - Even Odds
+
 n,k = list(map(int,input().split()))
 end = (n+1)//2
 if k > end:

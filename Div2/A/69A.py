@@ -1,3 +1,5 @@
+#69A - Young Physicist
+
 n = int(input())
 arr = []
 flag = 0

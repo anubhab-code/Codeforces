@@ -1,3 +1,5 @@
+#337A - Puzzles
+
 s , p = list(map(int,input().split()))
 data = sorted(list(map(int,input().split())))
 min_ = 100000

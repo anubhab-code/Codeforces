@@ -1,3 +1,5 @@
+#118A - String Task
+
 string = input().lower()
 new = ''
 for i in string:

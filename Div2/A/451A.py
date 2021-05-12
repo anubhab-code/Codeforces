@@ -1,3 +1,5 @@
+#451A - Game With Sticks
+
 n,m=map(int,input().split())
 if (min(n,m))%2==0:
     print("Malvika")
